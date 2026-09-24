@@ -4,7 +4,7 @@ A web application designed to streamline clinic workflows by managing patient ap
 
 **Project Title:**  Clinic Appointment And Prescription Manager
 
-**Team No:** KLEHB-FED-26-10-8
+**Team No:** KLHB-FED-26-10-8
 
 **Team Member Names with ID Numbers:**
 1. 2620030354 - Sujan
